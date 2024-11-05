@@ -1,0 +1,209 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Running Shoes",
+      "brand": "Nike",
+      "size": 42,
+      "price": 120,
+      "description": "Comfortable running shoes with cushioning.",
+      "image": "images/Running Shoes.png"
+    },
+    {
+      "id": 2,
+      "name": "Basketball Shoes",
+      "brand": "Adidas",
+      "size": 44,
+      "price": 150,
+      "description": "High-performance shoes for basketball players.",
+      "image": "images/Basketball Shoes.png"
+    },
+    {
+      "id": 3,
+      "name": "Casual Sneakers",
+      "brand": "Puma",
+      "size": 43,
+      "price": 90,
+      "description": "Stylish sneakers for everyday wear.",
+      "image": "images/Casual Sneakers.png"
+    },
+    {
+      "id": 4,
+      "name": "Trail Running Shoes",
+      "brand": "Salomon",
+      "size": 41,
+      "price": 130,
+      "description": "Durable shoes for rough terrain and trail running.",
+      "image": "images/Trail Running Shoes.png"
+    },
+    {
+      "id": 5,
+      "name": "Formal Shoes",
+      "brand": "Clarks",
+      "size": 42,
+      "price": 100,
+      "description": "Elegant leather shoes for formal occasions.",
+      "image": "images/Formal Shoes.png"
+    },
+    {
+      "id": 6,
+      "name": "Skate Shoes",
+      "brand": "Vans",
+      "size": 43,
+      "price": 80,
+      "description": "Durable shoes designed for skateboarders.",
+      "image": "images/Skate Shoes.png"
+    },
+    {
+      "id": 7,
+      "name": "Hiking Boots",
+      "brand": "The North Face",
+      "size": 44,
+      "price": 160,
+      "description": "Sturdy boots built for mountain and hiking trails.",
+      "image": "images/Hiking Boots.png"
+    },
+    {
+      "id": 8,
+      "name": "Football Cleats",
+      "brand": "Nike",
+      "size": 42,
+      "price": 140,
+      "description": "Specialized shoes for football with cleats for better grip.",
+      "image": "images/Football Cleats.png"
+    },
+    {
+      "id": 9,
+      "name": "Golf Shoes",
+      "brand": "FootJoy",
+      "size": 41,
+      "price": 170,
+      "description": "High-end golf shoes with spiked soles for stability.",
+      "image": "images/Golf Shoes.png"
+    },
+    {
+      "id": 10,
+      "name": "Tennis Shoes",
+      "brand": "Asics",
+      "size": 42,
+      "price": 110,
+      "description": "Lightweight shoes designed for quick movements on the court.",
+      "image": "images/Tennis Shoes.png"
+    },
+    {
+      "id": 11,
+      "name": "Walking Shoes",
+      "brand": "Skechers",
+      "size": 40,
+      "price": 95,
+      "description": "Comfortable shoes for walking long distances.",
+      "image": "images/Walking Shoes.png"
+    },
+    {
+      "id": 12,
+      "name": "Work Boots",
+      "brand": "Timberland",
+      "size": 45,
+      "price": 180,
+      "description": "Heavy-duty boots for industrial and construction work.",
+      "image": "images/Work Boots.png"
+    },
+    {
+      "id": 13,
+      "name": "CrossFit Shoes",
+      "brand": "Reebok",
+      "size": 42,
+      "price": 130,
+      "description": "Versatile shoes designed for high-intensity training.",
+      "image": "images/CrossFit Shoes.png"
+    },
+    {
+      "id": 14,
+      "name": "Slip on Sneakers",
+      "brand": "Converse",
+      "size": 41,
+      "price": 85,
+      "description": "Classic slip-on sneakers for casual wear.",
+      "image": "images/Slip on Sneakers.png"
+    },
+    {
+      "id": 15,
+      "name": "Cycling Shoes",
+      "brand": "Specialized",
+      "size": 43,
+      "price": 210,
+      "description": "High-performance cycling shoes with clip-in compatibility.",
+      "image": "images/Cycling Shoes.png"
+    },
+    {
+      "id": 16,
+      "name": "Snow Boots",
+      "brand": "Columbia",
+      "size": 44,
+      "price": 200,
+      "description": "Waterproof and insulated boots for cold and snowy conditions.",
+      "image": "images/Snow Boots.png"
+    },
+    {
+      "id": 17,
+      "name": "Running Flats",
+      "brand": "Brooks",
+      "size": 41,
+      "price": 110,
+      "description": "Lightweight racing shoes for competitive runners.",
+      "image": "images/Running Flats.png"
+    },
+    {
+      "id": 18,
+      "name": "Beach Sandals",
+      "brand": "Havaianas",
+      "size": 39,
+      "price": 30,
+      "description": "Comfortable and durable sandals perfect for the beach.",
+      "image": "images/Beach Sandals.png"
+    },
+    {
+      "id": 19,
+      "name": "Climbing Shoes",
+      "brand": "La Sportiva",
+      "size": 42,
+      "price": 190,
+      "description": "Precision climbing shoes designed for performance on rock faces.",
+      "image": "images/Climbing Shoes.png"
+    },
+    {
+      "id": 20,
+      "name": "Basketball High Tops",
+      "brand": "Under Armour",
+      "size": 45,
+      "price": 160,
+      "description": "High-top basketball shoes with added ankle support.",
+      "image": "images/Basketball High Tops.png"
+    }
+  ],
+
+  "comments": [
+    { "id": 1, "shoeId": 1, "user": "Moussa Seck", "comment": "Great shoes for long runs!", "rating": 5 },
+    { "id": 2, "shoeId": 1, "user": "Jane Smith", "comment": "A bit tight, but very comfortable.", "rating": 4 },
+    { "id": 3, "shoeId": 2, "user": "Adebola Oyerinde", "comment": "Perfect for jumping and quick cuts!", "rating": 5 },
+    { "id": 4, "shoeId": 3, "user": "Anna Lee", "comment": "I love how they look, very trendy.", "rating": 4 },
+    { "id": 5, "shoeId": 4, "user": "Marco Polo", "comment": "Great grip on uneven trails!", "rating": 5 },
+    { "id": 6, "shoeId": 5, "user": "Pauline Dubois", "comment": "Very comfortable for long hours.", "rating": 4 },
+    { "id": 7, "shoeId": 6, "user": "Jake Thompson", "comment": "Perfect for skating tricks!", "rating": 5 },
+    { "id": 8, "shoeId": 7, "user": "Sarah Lee", "comment": "Great for long hikes in rough terrain.", "rating": 5 },
+    { "id": 9, "shoeId": 8, "user": "John Doe", "comment": "Perfect fit and amazing grip!", "rating": 5 },
+    { "id": 10, "shoeId": 9, "user": "Mike Smith", "comment": "Excellent grip on the greens!", "rating": 5 },
+    { "id": 11, "shoeId": 10, "user": "Roger Federer", "comment": "Very light and flexible.", "rating": 5 },
+    { "id": 12, "shoeId": 11, "user": "Amy Johnson", "comment": "Perfect for my daily walks!", "rating": 4 },
+    { "id": 13, "shoeId": 12, "user": "Bob Builder", "comment": "Great durability for rough environments.", "rating": 5 },
+    { "id": 14, "shoeId": 13, "user": "Alex Turner", "comment": "Perfect for my CrossFit workouts.", "rating": 5 },
+    { "id": 15, "shoeId": 14, "user": "Sam Green", "comment": "Easy to wear and very comfortable.", "rating": 4 },
+    { "id": 16, "shoeId": 15, "user": "Tom Rider", "comment": "Perfect for long cycling sessions.", "rating": 5 },
+    { "id": 17, "shoeId": 16, "user": "Emma Frost", "comment": "Kept my feet warm and dry!", "rating": 5 },
+    { "id": 18, "shoeId": 17, "user": "Liam Fast", "comment": "Super light and fast.", "rating": 5 },
+    { "id": 19, "shoeId": 18, "user": "Sandy Shore", "comment": "Great for walking on sand!", "rating": 4 },
+    { "id": 20, "shoeId": 19, "user": "Rocky Peak", "comment": "Perfect grip for tough climbs.", "rating": 5 },
+    { "id": 21, "shoeId": 20, "user": "Chris Jordan", "comment": "Great support for high-intensity games!", "rating": 5 },
+    { "id": 22, "shoeId": 20, "user": "Maya Lin", "comment": "Stylish and functional!", "rating": 4 }
+  ]
+}
