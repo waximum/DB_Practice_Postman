@@ -23,4 +23,4 @@ jobs:
         run: npm install jsonlint -g
 
       - name: Validate JSON file
-        run: jsonlint -q </Users/adebolaoyerinde/Desktop/BDD_Practice_Postman/.github/json-validation.yml> 
+        run: jsonlint -q db.json 
