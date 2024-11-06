@@ -190,7 +190,7 @@
     { "id": 5, "shoeId": 4, "user": "Marco Polo", "comment": "Great grip on uneven trails!", "rating": 5 },
     { "id": 6, "shoeId": 5, "user": "Pauline Dubois", "comment": "Very comfortable for long hours.", "rating": 4 },
     { "id": 7, "shoeId": 6, "user": "Jake Thompson", "comment": "Perfect for skating tricks!", "rating": 5 },
-    { "id": 8, "shoeId": 7, "user": "Sarah Lee", "comment": "Great for long hikes in rough terrain.", "rating": 5 },
+    { "id": 8, "shoeId": 7, "user": "Sarah Conor", "comment": "Great for long hikes in rough terrain.", "rating": 5 },
     { "id": 9, "shoeId": 8, "user": "John Doe", "comment": "Perfect fit and amazing grip!", "rating": 5 },
     { "id": 10, "shoeId": 9, "user": "Mike Smith", "comment": "Excellent grip on the greens!", "rating": 5 },
     { "id": 11, "shoeId": 10, "user": "Roger Federer", "comment": "Very light and flexible.", "rating": 5 },
