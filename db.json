@@ -183,7 +183,7 @@
   ],
 
   "comments": [
-    { "id": 1, "shoeId": 1, "user": "John Snow", "comment": "Great shoes for long runs!", "rating": 5 },
+    { "id": 1, "shoeId": 1, "user": "John Snow2", "comment": "Great shoes for long runs!", "rating": 5 },
     { "id": 2, "shoeId": 1, "user": "Lane Smith", "comment": "A bit tight, but very comfortable.", "rating": 4 },
     { "id": 3, "shoeId": 2, "user": "Adebola Oyerinde", "comment": "Perfect for jumping and quick cuts!", "rating": 5 },
     { "id": 4, "shoeId": 3, "user": "Anna Lee", "comment": "I love how they look, very trendy.", "rating": 4 },
